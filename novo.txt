@@ -1,3 +1,4 @@
 Tentando aprender o github
 É apenas um curso de git que estou fazendo
 Essas novas exigências de autenticação do github estão me confundindo
+Agora tentar remover as modificações do arquivo apague-2.txt
